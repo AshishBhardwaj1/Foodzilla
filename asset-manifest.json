@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodzilla/static/css/main.44ea9270.css",
+    "main.js": "/foodzilla/static/js/main.9f385be4.js",
+    "static/js/787.388d264d.chunk.js": "/foodzilla/static/js/787.388d264d.chunk.js",
+    "index.html": "/foodzilla/index.html",
+    "main.44ea9270.css.map": "/foodzilla/static/css/main.44ea9270.css.map",
+    "main.9f385be4.js.map": "/foodzilla/static/js/main.9f385be4.js.map",
+    "787.388d264d.chunk.js.map": "/foodzilla/static/js/787.388d264d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ea9270.css",
+    "static/js/main.9f385be4.js"
+  ]
+}
