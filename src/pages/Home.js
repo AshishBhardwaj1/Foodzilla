@@ -15,7 +15,7 @@ const Home = () => {
     <Recipeitem item={item}/>
   )) : <div>
 
-    <p className='lg:text-4xl text-xl text-center font-bold'>Nothing to Show </p>
+    <p className='lg:text-4xl text-xl text-center font-bold'>Nothing to Show Search your recipe please </p>
   </div>
 }
 
