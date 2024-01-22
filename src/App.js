@@ -14,6 +14,7 @@ const App = () => {
 <div className="min-h-screen  bg-red-200 text-gray-600 text-lg ">
 
 <Navbar/>
+
 <Routes>
   <Route path="/" element={<Home/>}> </Route>
   <Route path='/favourites' element={<Favourite/>} > </Route>
