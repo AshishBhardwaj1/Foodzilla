@@ -11,7 +11,7 @@ const Recipeitem = ({item}) => {
         <div>
           <span>{item.publisher} </span>
           <h3>{item.title} </h3>
-          <Link to={`/details/${item.id}`} >recipe details</Link>
+          <Link to={`/details/${item.id}`}  className="text-sm p-3 mt-5 px-8 rounded-lg uppercase font-medium tracking-wider inline-block shadow-md bg-black text-white" >recipe details</Link>
         </div>
     </div>
   )
